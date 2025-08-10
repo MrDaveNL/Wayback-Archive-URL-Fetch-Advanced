@@ -68,8 +68,6 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone https://github.com/MrDaveNL/wayback-scraper.git
-cd wayback-scraper
 
 # Install dependencies
 pip install requests colorama sqlite3
