@@ -1,4 +1,4 @@
-# Wayback-Archive-URL-Fetch-Advanced
+# Wayback Archive URL Fetch Advanced
 The Wayback Archive URL Fetch Advanced
 
 # Wayback Scraper Advanced
