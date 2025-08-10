@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone https://github.com/4apdigital/wayback-scraper.git
+git clone https://github.com/MrDaveNL/wayback-scraper.git
 cd wayback-scraper
 
 # Install dependencies
@@ -362,7 +362,7 @@ We welcome contributions! Please follow these guidelines:
 
 ```bash
 # Clone for development
-git clone https://github.com/4apdigital/wayback-scraper.git
+git clone https://github.com/MrDaveNL/...
 cd wayback-scraper
 
 # Install development dependencies
@@ -412,6 +412,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Created with ❤️ by 4ap Digital**
+**Created with ❤️ by MrDaveNL**
 
 *Empowering digital archaeology and security research through advanced web archive analysis.*
